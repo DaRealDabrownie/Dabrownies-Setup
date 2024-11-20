@@ -21,7 +21,7 @@ Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 
 ![DabrowniesPC1](doc/Media/Pictures/DabrowniesPC1.png)
 
-### [Windows Install And Setup Here](https://github.com/DaRealDabrownie/Dabrownies-PC)
+### [Windows Install And Setup Here](https://www.youtube.com/watch?v=6UQZ5oQg8XA) [Or Here]()
 
 * GPU: [MSI RTX 4080 GAMING X TRIO](https://ca.pcpartpicker.com/product/Mm6p99/intel-core-i7-13700k-34-ghz-16-core-processor-bx8071513700k)
 
