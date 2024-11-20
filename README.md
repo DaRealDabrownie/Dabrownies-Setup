@@ -94,16 +94,16 @@ Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 [keymap.c Here.](keymap.c)
 
 **Base Layer**
-![base layer](doc/%20%20%20%20%20Base_Layer.png)
+![base layer](keyboards/dabrownies_dz60/doc/%20%20%20%20%20Base_Layer.png)
 
 **Fn Layer**
-![Fn Layer](doc/%20%20%20%20Fn_Layer.png)
+![Fn Layer](keyboards/dabrownies_dz60/doc/%20%20%20%20Fn_Layer.png)
 
 **F13-F24 Layer**
-![F13-F24 Layer](doc/%20%20%20F13-F24_Layer.png)
+![F13-F24 Layer](keyboards/dabrownies_dz60/doc/%20%20%20F13-F24_Layer.png)
 
 **Keypad 1-0 Layer**
-![Keypad 1-0 Layer](doc/%20%20Keypad_1-0_Layer.png)
+![Keypad 1-0 Layer](keyboards/dabrownies_dz60/doc/%20%20Keypad_1-0_Layer.png)
 
 **Keyboard Settings Layer**
-![Keyboard Settings Layer](doc/%20Keyboard_Settings_Layer.png)
+![Keyboard Settings Layer](keyboards/dabrownies_dz60/doc/%20Keyboard_Settings_Layer.png)
