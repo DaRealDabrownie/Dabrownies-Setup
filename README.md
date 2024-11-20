@@ -21,6 +21,64 @@ Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 
 ![DabrowniesPC1](doc/Media/Pictures/DabrowniesPC1.png)
 
+## Fresh Windows 11 Installation
+
+[Follow This Video.](https://www.youtube.com/watch?v=6UQZ5oQg8XA)   [Or](doc/Media/Videos/ThePerfectWindows11Install.mp4)
+
+## Game Settings
+
+[CS2](doc/Games/CS2/CS2Settings.txt)
+
+[Destiny 2](doc/Games/Destiny2/Destiny2Settings.txt)
+
+[Escape From Tarkov](doc/Games/EFT/EFTSettings.txt)
+
+[Escape From Tarkov Control.ini](doc/Games/EFT/Control.ini)
+
+[Escape From Tarkov: Arena](doc/Games/EFTArena/EFTArenaSettings.txt)
+
+[Escape From Tarkov: Arena Control.ini](doc/Games/EFTArena/Control.ini)
+
+[Valorant](doc/Games/Valorant/ValorantSettings.txt)
+
+## Apps & Tools Settings
+
+[Adobe](doc/AppsAndTools/Adobe/Adobe.txt)
+
+[Armoury Crate](doc/AppsAndTools/ArmouryCrate/ArmouryCrateSettings.txt)
+
+[Discord](doc/AppsAndTools/Discord/DiscordSettings.txt)
+
+[Vencord Plugins](doc/AppsAndTools/Discord/VencordPlugins/VencordPlugins.txt)
+
+[Interrupt Affinity Policy Tool](doc/AppsAndTools/InterruptAffinityPolicyTool/CoreAllocation.txt)
+
+[LConnect3](doc/AppsAndTools/LConnect3/LConnect3Settings.txt)
+
+[Msi Mode Utility](doc/AppsAndTools/MsiModeUtility/Screenshot1.png)
+
+[Nvidia Control Panel](doc/AppsAndTools/NvidiaControlPanel/NvidiaControlPanelSettings.txt)
+
+[NZXT Cam](doc/AppsAndTools/NZXTCam/)
+
+[OBS](doc/AppsAndTools/OBS/)
+
+[RawAccel](doc/AppsAndTools/RawAccel/Screenshot1.png)
+
+[Soundpad](doc/AppsAndTools/Soundpad/)
+
+[Stream Deck](doc/AppsAndTools/StreamDeck/)
+
+[Synapse 3](doc/AppsAndTools/Synapse3/RazerViperV2ProSettings.txt)
+
+[Virtual Cable Control Panel](doc/AppsAndTools/VirtualCableControlPanel/Screenshot1.png)
+
+[Wallpaper Engine](doc/AppsAndTools/WallpaperEngine/WallpaperEngineSettings.txt)
+
+[Wave Link](doc/AppsAndTools/WaveLink/)
+
+[WinViewSet](doc/AppsAndTools/WinViewSet/)
+
 ### [Windows Install And Setup Here](https://github.com/DaRealDabrownie/Dabrownies-PC)
 
 * GPU: [MSI RTX 4080 GAMING X TRIO](https://ca.pcpartpicker.com/product/Mm6p99/intel-core-i7-13700k-34-ghz-16-core-processor-bx8071513700k)
