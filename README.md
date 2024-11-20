@@ -2,6 +2,21 @@
 
 ![DabrowniesSetup1](doc/Media/Pictures/DabrowniesSetup1.jpg)
 
+PC
+
+Monitors: Rog Strix XG27AQ, LG 27GL650F-B, LG 27GL650F-B
+
+Amp/Dac: FiiO K5PRO
+
+IEM's: Kiwi Ears Orchestra Lite
+
+Headphones: Beyerdynamic DT 990 PRO 250 Ohm
+
+Keyboard: Custom
+
+Mouse: Razer Viper V2 Pro With 8kHz Dongle
+
+
 ## PC
 
 ![DabrowniesPC1](doc/Media/Pictures/DabrowniesPC1.png)
