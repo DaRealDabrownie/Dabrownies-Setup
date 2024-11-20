@@ -14,6 +14,8 @@ Keyboard: Custom
 
 Mouse: Razer Viper V2 Pro With 8kHz Dongle
 
+Mic: Elgato Wave:3
+
 
 ## PC
 
