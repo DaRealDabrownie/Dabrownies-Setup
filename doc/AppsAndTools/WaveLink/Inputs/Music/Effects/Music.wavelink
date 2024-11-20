@@ -1,0 +1,19 @@
+{
+    "appVersion": "1.10.1.2293",
+    "filterConfigurations": [
+        {
+            "activeMixerIDs": [],
+            "filterConfigID": "BCE3EC77-F928-47F9-957C-B91CEC929D09",
+            "filterSettings": "Q2NuSwAAAABGQkNoAAAAAXJlZXEAAARMAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoCEAAAAEAAAAAAAAAAEAAACAe7upUXlWQIF7QZUTnAdAAAAAAAAAAEABCAAAAAEAAAB/l6wwl+ZXQL+a3Y7jU9M/AAAAAAAAAEABCAAAAAEAAACAhgLUQ3yQQMCh+qvWCw1AAAAAAAAAAEABAQAAAAEAAAAjCxTKlx5hQIDttaD3xrA+AAAAAAAAAEABAQAAAAEAAAA73n2yhA/wPwAAAAA=",
+            "pluginCategory": "Effect",
+            "pluginDisplayName": "car bass",
+            "pluginID": "72656571",
+            "pluginOriginalName": "ReaEQ (ReaPlugs Edition)",
+            "pluginURL": "",
+            "pluginVendor": "Cockos"
+        }
+    ],
+    "format": 1,
+    "platform": "Windows",
+    "type": "InputConfiguration"
+}

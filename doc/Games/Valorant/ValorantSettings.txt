@@ -1,0 +1,362 @@
+----//General\\----
+
+--Accessibility--
+Text Language [English(United States)]
+Enemy Highlight Color [YelloW(Deuteranopia)]
+
+--Mouse--
+Sensitivity: Aim [0.35]
+Scoped Sensitivity Multiplier [1]
+ADS Sensitivity Multiplier [1]
+Invert Mouse [Off]
+RawInputBuffer [On]
+
+--Map--
+Rotate [Rotate]
+Keep Player Centered [Off]
+Minimap Size [1.1]
+Minimap Zoom [0.876]
+Minimap Vision Cones [On]
+Show Map Region Names [Always]
+
+--Privacy--
+Hide My Riot ID from Players Outside My Party [On]
+Use Generic Names for Players Outside My Party [Off]
+Auto-Reject Friend Requests [Off]
+Only Allow Party Requests from Friends [Off]
+
+--Other--
+Show New Player Tips [Off]
+Firts Person Handness [Left]
+Always Show Inventory [Off]
+Player Loadouts Always Visible [Off]
+Cycle to Next/Prev Weapon Wraps Inventory [Off]
+Show Mature Content [On]
+Show Corpses [Off]
+Show Blood [On]
+Instability Indicators [Off]
+Network Buffering [Minimum]
+Show Bullet Tracers [On]
+Show Spectator Count [On]
+Use Team Color for Crosshair Color [Off]
+Hide User Interface In Game [Off]
+Hide First Person Arms(Observers Only) [Off]
+Hide Outlines and Fresnel [Off]
+Show Full Screen Blind for Observers [Off]
+Team Colors Affect HUD for Observers [Off]
+Show Player Keybinds on Minimap [On]
+Show Player Keybinds on Megamap [Off]
+Use Full Screen Megamap with Opaque Background [Off]
+Observers See Agent Handedness Based on Team [Off]
+Hide the Spectated Agent Portrait for Observers [Off]
+Observer Free Camera Fast Speed [0.6]
+Observer Free Camera Slow Speed [0.3]
+Observer Press To Toggle Scoreboard [Off]
+
+
+
+
+----//Controls\\----
+
+//Actions\\
+
+--Abiliies--
+Use/Equip Ability: 1 [V][]
+Use/Equip Ability: 2 [Q][]
+Use/Equip Ability: 3 [E][]
+Use/Equip Ability: Ultimate [T][]
+
+--Movement--
+Forward [W][]
+Back [S][]
+Strafe Left [A][]
+Strafe Right [D][]
+Default Movement Mode [Run]
+Walk [Left Shift][]
+Toggle Walk [Off]
+Jump [Space Bar][]
+Crouch [Left Ctrl][]
+Toggle Crouch [Off]
+Fly Up [Space Bar][]
+Fly Down [Left Ctrl][]
+Toggle Cheat: Ghost [][]
+
+//Equipment\\
+
+--Weapons--
+Fire [Left Mouse Button]
+Alternate Fire [Right Mouse Button][]
+Toggle Zoom Level [][]
+Aim Down Sights [Toggle]
+Sniper Rifle Aim [Toggle]
+Operator Zoom [Cycle]
+Operator Zoom(Hold) []
+Auto Re-enter Scope [Off]
+Reload [R][]
+
+--Equipment--
+Equip Primary Weapon [1][]
+Equip Secondary Weapon [2][]
+Equip Melee Weapon [C][]
+Equip Spike [Thumb Mouse Button 2][]
+Cycle to Next Weapon [][]
+Cycle to Previous Weapon [][]
+Drop Equipped Item [G][]
+Equip Last Used Weapon [][]
+Auto-Equip Prioritizes [Most Recently Equiped]
+Don't Auto-Equip Melee [Off]
+
+--Interaction--
+Inspect Weapon [X][]
+Use Object [F][]
+Use Spike(Plant or Defuse) [Thumb Mouse Button 2][]
+Use Spray (Tap) / Open Spray Wheel(Hold) [][]
+Spray Wheel Open on Hold [On]
+Spray Wheel Hold Delay(milliseconds) [130]
+Open Spray Wheel [][]
+
+//Communication\\
+
+--Voice Chat--
+Party Voice Push To Talk Key [N][]
+Team Voice Push To Talk Key [H][]
+Party Voice Clutch Mute Key [][]
+Team Voice Clutch Mute Key [][]
+
+--Text Chat--
+Tactical Callouts in Chat [On]
+Explicit Language Filter [Off]
+Muted Words List []
+
+--Pings--
+Ping(Tap) / Ping Wheel(Hold) [Middle Mouse Button][]
+Ping Wheel Hold Delay(milliseconds) [130]
+Ping: Caution [][]
+Ping: Watching Here [][]
+Ping: Need Support [][]
+Ping: On My Mark [][]
+
+--Radio Commands Menu--
+Radio Commands Menu Index [Period][]
+Open Combat Radio Commands Menu [][]
+Open Tactics Radio Command Menu [][]
+Open Social Radio Command Menu [][]
+Open Strategy Radio Command Menu [][]
+
+--Radio Commands Wheel--
+Radio Command Wheel Index [Comma][]
+Combat/Tactics Radio Command Wheel [][]
+Social Radio Command Wheel [][]
+Strategy Radio Command Wheel [][]
+
+//Interface\\
+
+--General--
+Show Teammate Loadouts(Hold) [][]
+Combat Report [][]
+Agent Ability Tooltip [F1][]
+Open Armory [B][]
+Open Map(Toggle) [M][]
+Open Map(Hold) [Caps Lock][]
+Show Scoreboard(Hold) [Tab][]
+Toggle Cursor[][Equals]
+
+--Voting--
+Vote Option 1 [F5][]
+Vote Option 2 [F6][]
+Vote Option 3 [F7][]
+Vote Option 4 [F8][]
+
+--Observer--
+Toggle Free Camera [V][]
+Toggle Minimap [Apostrophy][]
+Toggle Sight Lines [R][]
+All Outlines [H][]
+Friendly Outlines [J][]
+Enemy Outlines [K][]
+No Outlines [L][]
+Toggle Player Loadout Visibility [Period][]
+Follow Projectiles [F][]
+Cycle Preset Free Camera Locations [Equalls][]
+Hold to Observe Player in Free Camera [Left Shift][]
+Follow Next Observer [Right Bracket][]
+Follow Previous Observer [Left Bracket][]
+Observe Player 1 [1][]
+Observe Player 2 [2][]
+Observe Player 3 [3][]
+Observe Player 4 [4][]
+Observe Player 5 [5][]
+Observe Player 6 [6][]
+Observe Player 7 [7][]
+Observe Player 8 [8][]
+Observe Player 9 [9][]
+Observe Player 10 [0][]
+Right Analog Rotation Speed X [90]
+Right Analog Rotation Speed Y [70]
+Right Analog Max Speed Multiplier X [1]
+Right Analog Max Speed Multiplier Y [1]
+Right Analog Deadzone [0.1]
+Left Analog Deadzone [0.2]
+Right Analog Invert Y [Off]
+
+
+
+----//Crosshair\\----
+
+//General\\
+
+--Crosshair--
+Use Advanced Options [Off]
+
+--Other--
+Show Spectated Players Crosshair [On]
+Fade Crosshair With Firing Error [Off]
+Disable Crosshair [Off]
+
+//Primary\\
+
+--Crosshair--
+Crosshair Color [00FF00][Green]
+Outlines [On]
+Outline Opacity [1]
+Outline Thickness [1]
+Center Dot [On]
+Center Dot Opacity [1]
+Center Dot Thickness [3]
+Override Firing Error Offset With Crosshair Offset [Off]
+Override All Primary Crosshairs With My Primary Crosshair [Off]
+
+--Inner Lines--
+Show Inner Lines [Off]
+Inner Line Opacity [0.8]
+Inner Line Length [6][6]
+Inner Line Thickness [2]
+Inner Line Offset [3]
+Movement Error [Off]
+Movement Error Multiplier [1]
+Firing Error [On]
+Firing Error Multiplier [1]
+
+--Outer Lines--
+Show Outer Lines [Off]
+Outer Line Opacity [0.35]
+Outer Line Length [2][2]
+Outer Line Thickness [2]
+Outer Line Offset [10]
+Movement Error [On]
+Movement Error Multiplier [1]
+Firing Error [On]
+Firing Error Multiplier [1]
+
+
+
+
+----//Video\\----
+
+//General\\
+Display Mode [Windowed Fullscreen]
+Resolution [2560x1440p]
+Monitor []
+Aspect Ratio Method [Letterbox]
+Limit FPS on Battery [Off]
+Max FPS on Battery [60.0]
+Limit FPS in Menus [Off]
+Max FPS in Menus [144.0]
+Limit FPS in Background [Off]
+Max FPS in Background [30.0]
+Limit FPS Always [Off]
+Max FPS Always [60.0]
+NVIDIA Reflex Low Latency [On]
+
+//Graphics Quality\\
+Multithreaded Rendering [On]
+Material Quality [Low]
+Texture Quality [Low]
+Detail Quality [Low]
+UI Quality [Med]
+Vignette [Off]
+VSync [Off]
+Anti-Aliasing [MSAA 4x]
+Anisotropic Filtering [16x]
+Improve Clarity [Off]
+Experimental Sharpening [Off]
+Bloom [Off]
+Distortion [Off]
+Cast Shadows [Off]
+
+//Stats\\
+Selected Preset [None]
+
+--Performance--
+Client FPS [Text Only]
+Server Tick Rate [Hide]
+Total Frame Time [Hide]
+Idle Time [Hide]
+CPU (Game) Time [Hide]
+CPU (Render) Time [Hide]
+CPU (RHI) Time [Hide]
+GPU Render Time [Hide]
+Used Physical Memory [Hide]
+CPU Wait GPU Time [Hide]
+Available Physical Memory [Hide]
+
+--Input Latency--
+Game Latency (CPU) [Hide]
+Render Latency (GPU) [Hide]
+Render Latency (CPU) [Hide]
+Game to Render Latency (CPU+GPU) [Hide]
+Network RTT + Post Processing Delays [Hide]
+
+--Network--
+Network RTT [Hide]
+Network RTT Jitter [Hide]
+Packet Loss [Text Only]
+Incoming Packet Loss [Hide]
+Outgoing Packet Loss [Hide]
+Packets Lost (Total) [Hide]
+Packets Receive Rate [Hide]
+Packets Send Rate [Hide]
+Uploaded Data [Hide]
+Out Packet Size [Hide]
+
+--Gameplay Stats--
+Shooting Error [Graph Only]
+
+
+
+
+----//Audio\\----
+
+//Sounds\\
+Main Volume [45%][On]
+Sound Effects [100%][On]
+Voice-Over [30%][On]
+Store Audio [100%][On]
+All Music [0%][Off]
+Menu And Lobby Music [50%][On]
+Agent Select Music [0%][Off]
+Lower Music When a Player is Speaking [On]
+Mute Music When Game Window Out Of Focus [Off]
+Speaker Configuration [Stereo 2.0]
+Simulate Surround Sound (HRTF) [On]
+
+//Voice Chat\\
+Output Device [Wave Link Game (Elgato Wave:3)]
+Input Device [Wave Link Stream (Elgato Wave:3)]
+Incoming Volume [55%]
+Mic Volume [100%]
+Mic Sensitivity Threshold [40%]
+Loopback Test [Off]
+Party Voice Chat [On]
+Party Voice During Custom Game [Off]
+Party Voice Activation Mode [Push To Talk]
+Team Voice Chat [On]
+
+//Voice Over\\
+Gameplay [On]
+Agent Flavor [On]
+Tactical Callouts [On]
+Announcer [On]
+Maxbot Gameplay VO [On]
+Maxbot Flavor VO [On]
+VOIP Ducks Flavor VO [Off]

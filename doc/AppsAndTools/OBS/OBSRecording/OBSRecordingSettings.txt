@@ -1,0 +1,203 @@
+----//Settings\\----
+
+ //General\\
+
+  --General--
+   Language [English]
+   Theme [Yami]
+   Open stats dialog on startup [No]
+   Hide OBS windows from screen capture [No]
+
+  --Updates--
+   Update Channel [Stable - Latest Stable Release]
+   Automatically check for updates on startup [No]
+
+  --Output--
+   Show confirmation dialog when starting streams [No]
+   Show confirmation dialog when stopping streams [No]
+   Show confirmation dialog when stopping recording [No]
+   Automatically record when streaming [No]
+   Keep recording when stream stops [No]
+   Automatically start replay buffer when streaming [No]
+   Keep replay buffer active when stream stops [No]
+
+  --Source Alignment Snapping--
+   Enable [Yes]
+   Snap Sensitivity [10.0]
+   Snap Sources to edge of screen [Yes]
+   Snap Sources to other sources [Yes]
+   Snap Sources to horizontal and vertical center [No]
+
+  --Projectors--
+   Hide cursor over projectors [No]
+   Make projectors always on top [No]
+   Save projectors on exit [No]
+   Limit one fullscreen projector per screen [No]
+
+  --System Tray--
+   Enable [Yes]
+   Minimize to system tray when started [No]
+   Always minimize to system tray instead of task bar [NoF]
+
+  --Preview--
+   Hide overflow [No]
+   Overflow always visible [No]
+   Show overflow even when source is invisible [No]
+   Draw safe areas [No]
+   Show pixel alignment guides [Yes]
+
+  --Importers--
+   Search known locations for scene collections when importing [No]
+
+  --Studio Mode--
+   Transition to scene when double-clicked [No]
+   Enable portrait/vertical layout [No]
+   Show preview/program labels [No]
+
+  --Multiview--
+   Click to switch between scenes [Yes]
+   Show scene names [Yes]
+   Draw safe areas [Yes]
+   Multiview Layout [Horizontal, Top (8 Scenes)]
+
+
+ //Output\\
+  Output Mode [Advanced]
+  
+  --Recording--
+   Type [Standard]
+    
+     -Recording Settings-
+      Recording Path []
+      Generate File Names Without Space [No]
+      Recording Format [MPEG-4(.mp4)]
+      Video Encoder [NVIDIA NVENC HEVC]
+      Audio Encoder [FFmpeg AAC]
+      Audio Track [1,2,3,4,5,6 On]
+      Rescale Output [Disabled]
+      Custom Muxer Settings [None]
+      Automatic File Splitting [Off]
+      
+     -Encoder Settings-
+      Rate Control [CBR]
+      Bitrate [130000 Kbps]
+      Keyframe Interval [2s]
+      Preset [P1:Fastest (Lowest Quality)]
+      Tuning [Ultra Low Latency]
+      Multipass Mode [Single Pass]
+      Profile [main]
+      Look-ahead [No]
+      Psycho Visual Tuning [No]
+      GPU [0]
+      Max b-frames [0]
+      
+  --Audio--
+
+   -Track 1-
+    Audio Bitrate [192]
+    Name [None]
+
+   -Track 1-
+    Audio Bitrate [192]
+    Name [None]
+
+   -Track 1-
+    Audio Bitrate [192]
+    Name [None]
+
+   -Track 1-
+    Audio Bitrate [192]
+    Name [None]
+
+   -Track 1-
+    Audio Bitrate [192]
+    Name [None]
+
+   -Track 1-
+    Audio Bitrate [192]
+    Name [None]
+
+  --Replay Buffer--
+   Enable Replay Buffer [Yes]
+   Maximun Replay Time [150s]
+   
+ //Audio\\
+
+  --General--
+   Sample Rate [48 kHz]
+   Channels [Stereo]
+
+  --Global Audio Devices--
+   Desktop Audio [Wave Link System(Elgato Wave:3)]
+   Desktop Audio 2 [Wave Link Music(Elgato Wave:3)]
+   Mic/Auxiliary Audio [Wave Link Stream(Elgato Wave:3)]
+   Mic/Auxiliary Audio 2 [Disabled]
+   Mic/Auxiliary Audio 3 [Disabled]
+   Mic/Auxiliary Audio 4 [Disabled]
+
+  --Meters--
+   Decay Rate [Fast]
+   Peak Meter Type [Sample Peak]
+
+  --Advanced--
+   Monitoring Device [Default]
+   Disable Windows audio ducking [Yes]
+   Low Latency Audio Buffering Mode [No]
+
+ //Video\\
+  Base (Canvas) Resolution [2560x1440]
+  Output (Scaled) Resolution [2560x1440]
+  Downscale Filter [None]
+  Fractional FPS Value [Numerator 360][Denominator 1]
+
+ //Hotkeys\\
+
+  --Replay Buffer--
+   Save Replay [F9]
+
+ //Accessibility\\
+  Use Different Colors [No]
+
+ //Advanced\\
+
+  --General--
+   Process Priority [High]
+   Show Active outputs warning on exit [No]
+
+  --Video--
+   Renderer [Direct3D 11]
+   Color Format [NV12]
+   Color Space [sRGB]
+   SDR White Level [300 nits]
+   Color Range [Full]
+   HDR Nominal Peak Level [1000 nits]
+
+  --Recording--
+   Filename Formatting [%CCYY-%MM-%DD-%hh-%mm-%ss]
+   Overwrite if file exists [No]
+   Automatically remux to mp4 [No]
+   Replay Buffer Filename Prefix [Replay]
+   Suffix []
+
+  --Stream Delay--
+   Enable [No]
+   Duration [20s]
+   Preserve cutoff point [Yes]
+
+  --Automatically Reconnect--
+   Enable [No]
+   Retry Delay [2s]
+   Maximum Retries [25]
+
+  --Network--
+   IP Family [IPV4 and IPV6]
+   Bind to IP [Default]
+   Dynamically change bitrate to manage congestion [No]
+   Enable network optimizations [No]
+   Enable TCP pacing [No]
+
+  --Sources--
+   Enable Browser Source Hardware Acceleration [Yes]
+
+  --Hotkeys--
+   Hotkey Focus Behavior [Never Disable Hotkeys]

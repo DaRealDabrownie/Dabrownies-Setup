@@ -1,0 +1,196 @@
+----//Keyboard/Mouse\\----
+
+--Mouse--
+Look Sensitivity []
+ADS Sensitivity Modifier [1.0]
+Vertical Inversion [Not Inverted]
+Horizontal Inversion [Not Inverted]
+Aim Smoothing [Off]
+
+--Global--
+Key Binding Storage [Computer]
+
+--Common--
+Move Forward [W][]
+Move Left [A][]
+Move Backward [S][]
+Move Right [D][]
+Finisher/Player Highlight [G][]
+Emote 1 [Up][]
+Emote 2 [Down][]
+Emote 3 [Left][]
+Emote 4 [Right][]
+Push-To-Talk [H][]
+Return to Orbit/Abort Activity [O][]
+
+--Character--
+Fire [Left Mouse Button][]
+Reload [R][]
+Auto Melee [][]
+Charged Melee [Middle Mouse Button][]
+Uncharged Melee [F][]
+Hold Zoom [Right Mouse Button][]
+Toggle Zoom [][]
+Light Attack [Left Mouse Button][]
+Heavy Attack [Right Mouse Button][]
+Block [X][]
+Jump [Space][Mouse Scroll Up]
+Hold Sprint [][]
+Toggle Sprint [Shift][]
+Hold Crouch [Ctrl][]
+Toggle Crouch [][]
+Class Ability [V][]
+Air Move [Mouse Scroll Down][]
+Interact [E][Alt]
+Grenade [Q][]
+Super [T][]
+Breakout [V][]
+Transcendence Ability [B][]
+Switch to Kinetic Weapon [Mouse Button 5][]
+Switch to Energy Weapon [Mouse Button 4][]
+Switch to Power Weapon [C][]
+Switch Weapon [][]
+Next Weapon [][]
+Previous Weapon [][]
+
+--Vehicle--
+Primary Weapon Fire [Left Mouse Button][]
+Secondary Weapon Fire [Middle Mouse Button][]
+Zoom [Right Mouse Button][]
+Boost [Right Mouse Button][]
+Brake [Shift][]
+Exit Vehicle [Space][]
+Dodge Left [Q][]
+Dodge Right[E][]
+
+--UI Shortcuts--
+Show/Hide Text Chat [][]
+Deploy Ghost [Tab][]
+Open Director/New Quest Details [M][]
+Open Director-Quests [][]
+Open Director-Roster [U][]
+Open Director-Seasons [][]
+Open Start Menu-Clans [][]
+Open Start Menu-Collections [][]
+Open Start Menu-Journey [][]
+Open Start Menu-Character [1][]
+Open Start Menu-Inventory [][]
+Open Start Menu-Settings [][]
+
+
+
+
+----//Controller\\----
+
+--Controller--
+Movement Controls [Default]
+Button Layout [Default]
+Look Sensitivity [20]
+ADS Sensitivity Modifier [1.0]
+Vertical Inversion [Not Inverted]
+Horizontal Inversion [Not Inverted]
+Autolook Centering [Off]
+Sprint-Turn Scale [0.4]
+Controller Vibration [Off]
+Double Press Delay [1]
+Axial Dead Zone [0.0]
+Radial Dead Zone [0.0]
+
+
+
+
+----//Video\\----
+
+--Video--
+Window Mode [Windowed Fullscreen]
+Resolution [2560x1440]
+Vsync [Off]
+Framerate Cap Enabled [Off]
+Framerate Cap [30]
+Field of View [105]
+Screen Bounds []
+Brightness [7]
+
+--Advanced Video--
+Graphics Quality [Custom]
+Anti-Aliasing [FXAA]
+Screen Space Ambient Occlusion [Off]
+Texture Anisotropy [16x]
+Texture Quality [Highest]
+Shadow Quality [Low]
+Depth of Field [Off]
+Environment Detail Distance [Medium]
+Character Detail Distance [Medium]
+Foliage Detail Distance [Medium]
+Foliage Shadows Distance [Medium]
+Light Shafts [Medium]
+Motion Blur [Off]
+Wind Impulse [Off]
+
+--Additional Video--
+Render Resolution [100]
+HDR [Off]
+Chromatic Aberration [Off]
+Film Grain [Off]
+NVIDIA Reflex [On]
+
+
+
+
+----//Volume\\----
+
+--Volume--
+SFX Volume [3]
+Dialogue/Cinematics Volume [4]
+Music Volume [1]
+Chat Volume [6]
+Mute When Not Focused [Not Muted]
+
+
+
+
+----//Gameplay\\----
+
+--Gameplay--
+HUD Opacity [Full]
+Radar Background Opacity [Low]
+Subtitles [On]
+Colorblind Mode [Off]
+Full Auto Firing [On]
+Full-Auto Melee [Off]
+Reticle Location [Center]
+Neutral Reticle Color [Green]
+Targeted Reticle Color [Red]
+Helmet [Always On]
+FPS Display [On]
+Display Hints [On]
+
+
+
+
+----//Social\\----
+
+--Roster Preference--
+Fireteam Privacy []
+Fireteam Invites [Public]
+Bungie Friend Requests [Public]
+Clan Invites [Closed]
+Share Platform Names [Clan and Friends Only]
+Invite Notifications [Show All]
+
+--Voice Chat--
+Voice Chat [On]
+Push-To-Talk [On]
+Team Voice Channel [Automatic Opt-in When Solo]
+
+--Text Chat--
+Text Chat [On]
+Allow Some Profanity From [Anyone]
+Auto-Hide [On]
+Text Chat Font Size [Extra Small]
+Background Opacity [Medium]
+Whisper Chat [Clan and Friends Only]
+Team Chat Join [Automatic]
+Local Chat Join [Automatic]
+Clan Chat Join [Automatic]
+Friend Online Notification [On]

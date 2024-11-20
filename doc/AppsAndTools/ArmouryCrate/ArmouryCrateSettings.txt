@@ -1,0 +1,15 @@
+----//Aura Sync\\----
+
+ //Sync Devices\\
+  ROG STRIX Z690-E GAMING WIFI [On]
+  Addressable LED Strip [On]
+
+  Aura Performance Mode [Off]
+
+ //Aura Effects\\
+  Basic Effects [On][Rainbow]
+  Speed [5/5]
+  Advanced Effects [Off]
+
+  In-Game lighting effects [Off]
+  Festive Effects [Off]

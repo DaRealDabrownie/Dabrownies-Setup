@@ -1,0 +1,28 @@
+----//Fan/Pump Profile\\----
+
+ //SL-Inf\\
+  Port1 [Quiet][CPU]
+  Port2 [Quiet][CPU]
+  Port3 [Quiet][CPU]
+  Port4 [Quiet][CPU]
+
+  Start/Stop [Off]
+
+
+
+
+----//Quick/Sync Lighting\\----
+  MB Lighting Sync [On]
+
+
+
+
+----//Settings\\----
+
+ //General\\
+  Auto-Run on boot [On]
+  Hide on system tray when auto run on boot [On]
+  Minimize L-Connect 3 to system tray at close [On]
+  Displays a floating system information window [Off]
+  Language [English]
+  Temperature display [Celsius]

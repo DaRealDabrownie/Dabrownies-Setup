@@ -1,0 +1,116 @@
+----//Appearance\\----
+
+ Theme [Dark]
+ In-App Icon [Blurple]
+ Dark Sidebar [Off]
+ Message Display [Cozy]
+ Show Avatars in compact mode [Off]
+ Chat Font Scaling [16px]
+ Space Between Message Groups [16px]
+ Zoom Level [100]
+ Time Format [Auto]
+
+
+
+
+----//Accessibility\\----
+
+ Saturation [100]
+ Apply to custom color choices [Off]
+ Always underline links [Off]
+ Role Colors [Show Role Colors In Names]
+ Show guild tags next to names [On]
+ Sync profile themes [Off]
+ Sync contrast settings [On]
+ Sync with computer [On]
+ Enable Reduced Motion [Off]
+ Automatically play GIFs when Discord is focused [Off]
+ Play animated emoji [Off]
+ Stickers [Always Animate]
+ Show Send Message button [Off]
+ Use the legacy chat input [Off]
+ Allow playback and usage of /tts command [Off]
+ Text-to-Speech Rate [x1.0]
+
+
+
+
+----//Voice and Video\\----
+ Input Device [Wave Link Stream]
+ Output Device [Wave Link Voice Chat]
+ Input Volume [100%]
+ Output Volume [50%]
+ Input Mode [Voice Activity]
+ Automatically determine input sensitivity [Off]
+ Input Sensitivity [-90db]
+ Soundboard Volume [25%]
+
+ --Advanced--
+  OpenH264 Video Codec provided by Cisco Systems, Inc [On]
+  Hardware Acceleration [On]
+  Echo Cancellation [On]
+  Noise Suppression [None]
+  Advanced Voice Activity [On]
+  Automatic Gain Control [Off]
+  Hide Stream Previews [Off]
+  Enable Quality of Service High Packet Priority [Off]
+  Global Attenuation [O%]
+  When I speak [Off]
+  When others speak [Off]
+  Stream Attenuation [Off]
+  Stream Attenuation Strength [0%]
+  Audio Subsystem [Automatic]
+  Use our advanced technology to capture your screen [Off]
+  Use an experimental method to capture audio from applications [On]
+  Show a warning when Discord is not detecting audio from your mic [On]
+  Switch voice channel warning [Off]
+  Stream Info Overlay [Off]
+  Diagnostic Audio Recording [Off]
+  Debug Logging [On]
+
+
+
+
+----//Chat\\----
+
+ --Display Images, Videos, and Lolcats--
+  When posted as links to chat [On]
+  When uploaded directly to Discord [On]
+  With image descriptions [Off]
+
+  Show embeds and preview website links pasted into chat [On]
+  Show emoji reactions on messages [On]
+  Automatically convert emoticons in your messages to emoji [Off]
+  Sticker Suggestions [Off]
+  Stickers in Autocomplete [Off]
+  Preview emoji, mentions, and markdown syntax as you type [On]
+  Open threads in split view [On]
+  Show Spoiler Content [On Click]
+
+
+
+
+----//Streamer Mode\\----
+ Enable Streamer Mode [Off]
+ Automatically Enable/Disable [Off]
+
+ --Options--
+  Hide Personal Information [On]
+  Hide Invite Links [On]
+  Disable Sounds [On]
+  Disable Notifications [On]
+  Hide Discord Window from Screen Capture [Off]
+
+
+
+
+----//Advanced\\----
+ Developer Mode [On]
+ Hardware Acceleration [On]
+ Application Test Mode [Off]
+
+
+
+
+----//Game Overlay\\----
+ Enable in-game overlay [Off]

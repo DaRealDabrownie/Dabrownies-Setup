@@ -1,0 +1,47 @@
+{
+    "appVersion": "1.10.1.2293",
+    "filterConfigurations": [
+        {
+            "activeMixerIDs": [
+                "com.elgato.mix.local",
+                "com.elgato.mix.stream"
+            ],
+            "filterConfigID": "F050E5AD-5F22-4856-9EE0-98E0C9AEA6D8",
+            "filterSettings": "Q2NuSwAAAABGQkNoAAAAAXJlZXEAAARMAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPSEAAAABAAAAAQAAAAEAAAC/ortwsTTIQH/bT/o3qEo/AQAAAAAAEEABAQAAAAEAAAAAAAAAAADwPwEAAAA=",
+            "pluginCategory": "Effect",
+            "pluginDisplayName": "ReaEQ (ReaPlugs Edition)",
+            "pluginID": "72656571",
+            "pluginOriginalName": "ReaEQ (ReaPlugs Edition)",
+            "pluginURL": "",
+            "pluginVendor": "Cockos"
+        },
+        {
+            "activeMixerIDs": [],
+            "filterConfigID": "78E43035-9A0E-44B2-8C49-81F98AAD891F",
+            "filterSettings": "VkMyIccBAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8VlNUM1BsdWdpblN0YXRlPjxJQ29tcG9uZW50PjI2NC5WTWpMZ0xMLi4uLk8rZldhckFoY2tJMmJvOGxhOEhSTHQuaUhmVGxhaThGWW80MVk4SFJVVFlUSzNIeE85LkJPUjRqU3VrMWJrNENPUEVqVEEwREhvUVZPaFhXWGo4MFl4RTFYazhFYmtJV1p1UWxIZlhXWHJVV1k4SGhMdjNCTGg3aE83LlVQUkVUU2ZqRlk4SGhjZ1ExV3hVRmN4OFZYaVFXWjFVMVdtSVdYaVUxV3ZVbGJvOEZZaC5oY2d3VmNrMGlIdjNCTGg3aE83LlVQUkVUU2ZqRlk4SGhjZ1ExV3pnbGJrTUdadXdGWWguaGNnd1ZjazBpSHYzaEwwSHhLOXZ5S1I0alN1azFiazRDLi4uLi4uLi4uLi5mUlVNVFFQSVdaMUVGY2tRVFh6RUYuQURmUDRBV1h5TUcuQURmLi56QS4uLi4uLi4uLkpVMFBFQWtib1lXWHpVRlFnUVdYPC9JQ29tcG9uZW50PjwvVlNUM1BsdWdpblN0YXRlPgA=",
+            "pluginCategory": "Fx",
+            "pluginDisplayName": "RNNoise suppression for voice",
+            "pluginID": "d220be12",
+            "pluginOriginalName": "RNNoise suppression for voice",
+            "pluginURL": "",
+            "pluginVendor": "werman"
+        },
+        {
+            "activeMixerIDs": [
+                "com.elgato.mix.local",
+                "com.elgato.mix.stream"
+            ],
+            "filterConfigID": "370773DF-F17B-4171-B74E-954CCF294712",
+            "filterSettings": "Q2NuSwAAAABGQkNoAAAAAXJlZXEAAARMAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoCEAAAAEAAAAAAAAAAEAAAAAAAAAAABZQAAAAAAAAPA/AAAAAAAAAEABCAAAAAEAAAAAAAAAAMByQAAAAAAAAPA/AAAAAAAAAEABCAAAAAEAAAAAAAAAAECPQAAAAAAAAPA/AAAAAAAAAEABAQAAAAEAAAAAAAAAAIizQAAAAAAAAPA/AAAAAAAAAEABAQAAAAEAAABoeIk0p7IvQAAAAAA=",
+            "pluginCategory": "Effect",
+            "pluginDisplayName": "keep",
+            "pluginID": "72656571",
+            "pluginOriginalName": "ReaEQ (ReaPlugs Edition)",
+            "pluginURL": "",
+            "pluginVendor": "Cockos"
+        }
+    ],
+    "format": 1,
+    "platform": "Windows",
+    "type": "InputConfiguration"
+}

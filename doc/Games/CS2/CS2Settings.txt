@@ -1,0 +1,245 @@
+----//Video\\----
+
+//Video\\
+
+--Video--
+Display []
+Display Mode [Fullscreen]
+Aspect Ratio [Normal 4:3]
+Resolution [2088x1440]
+Refresh Rate [170]
+Brightness [93%]
+
+//Advanced Video\\
+
+--Advanced Video--
+Boost Player Contrast [Enabled]
+
+--Frame Pacing--
+V-Sync [Disabled]
+NVIDIA G-Sync [Disabled]
+NVIDIA Reflex Low Latency [Enabled]
+Maximum FPS In Game [1000]
+Maximum FPS In Menus [200]
+
+--Presets--
+Current Video Values Preset [High]
+Multisampling Anti-Aliasing Mode [4X MSAA]
+Global Shadow Quality [High]
+Dynamic Shadows [All]
+Model/Texture Detail [High]
+Texture Filtering Mode [Anisotropic 4x]
+Shader Detail [High]
+Particle Detail [High]
+Ambient Occlusion [Medium]
+High Dynamic Range [Quality]
+FidelityFX Super Resolution [Disabed]
+
+
+
+
+----//Audio\\----
+
+--Audio--
+Master Volume [65%]
+Audio Device [Default Device]
+EQ Profile [Crisp]
+L/R Isolation [0%]
+Perspective Correction [No]
+Play Audio When Game In Background [No]
+
+--Voice--
+Other Player Voice Volume [66%]
+Voice/Microphone Mode [Push To Talk]
+Voice Input Audio Device [Default Device]
+Hear My Own Voice [Off]
+Streamlined Push To Talk [No]
+Microphone Trigger Threshold [-120]
+
+--Music--
+Main Menu Volume [0%]
+Round Start Volume [0%]
+Round Action Volume [0%]
+Round End Volume [40%]
+MVP Volume [40%]
+Bomb/Hostage Volume [50%]
+Ten Second Warning Volume [20%]
+Death Camera Volume [10%]
+Mute MVP Music when players on both teams are alive [Yes]
+
+--Game Mode EQ--
+Competitive EQ [Default]
+Casual EQ [Default]
+Deathmatch EQ [Default]
+Arms Race EQ [Default]
+
+
+
+
+----//Game\\----
+
+--Game--
+Enable Developer Console [Yes]
+Max Acceptable Matchmaking Ping [74]
+Max Acceptable Game Traffic Bandwidth [Unrestricted]
+Buffering to smooth over packet loss/jitter [None]
+Install Counter-Strike Workshop Tools [No]
+
+--Hud--
+HUD Scale [1.00]
+HUD Color [Team Color]
+Large Player Count [No]
+Community Notification Location [Bottom Left]
+Community Notification Horizontal Offset [0]
+Community Notification Vertical Offset [0]
+Show Team ID Through Walls [Pips, Names, Health, and Equipment]
+Show Player Colors in Competitive [Show Colors]
+Use Player Colors on Team ID [Yes]
+Friends Lobby Default Permissions [Friends Need Invites]
+Looking to Play when Counter-Strike Starts [Remember Last State]
+
+--Communication--
+Player Pings [Display and Play Sound]
+Mute Enemy Team [No]
+Mute All But Friends [No]
+Allow Animated Avatars [Yes]
+Hide Avatar Images and Customized Items [Show All]
+Clean Player Names [No]
+Spectator/Map Vote Number Selection Method [Use Number Keys]
+Scoreboard Mouse Enable/End of Match Scoreboard Toggle [Secondary Fire]
+End of Match Local Player Defeat Animation [Enabled]
+Survivors Always On [No]
+Smooth Spectator Camera [Yes]
+Smooth Spectator Camera Speed [0.27]
+
+--Item--
+Delay Sniper Rifle Un-Scope after Shot [No]
+Auto Re-Zoom Sniper Rifle after Shot [Yes]
+Detach Silencer on M4A1-S and USP-S [Disabled]
+Viewmodel Position [Desktop]
+Preferred Viewmodel Left/Right Handedness [Left]
+First Person Tracers [Enabled]
+Always Show Inventory [Yes]
+Open Buy Menu With Use Key [Yes]
+Buy Menu Number Keys [Number Keys Buy Items]
+Buy Menu Donation Key [Left Control]
+Last Weapon on Radial Weapon Tap [Yes]
+
+--Radar/Tablet--
+Radar Centers The Player [Yes]
+Radar Is Rotating [Yes]
+Radar Hud Size [1.00]
+Radar Map Zoom [0.70]
+Radar Map Alternate Zoom [1.00]
+Toggle Shape With Scoreboard [Yes]
+
+--Crosshair--
+Crosshair Style [Clasic Static]
+Friendly Fire Reticle Warning [Always On]
+Follow Recoil [No]
+Center Dot [Yes]
+Length [0.0]
+Thickness [1.0]
+Gap [0.2]
+Outline [0.5]
+Red [0]
+Green [255]
+Blue [0]
+Alpha [On][255]
+T Style [No]
+Deployed Weapon Gap [No]
+Show Player Crosshairs [Everyone]
+Show my crosshair when spectating bots [Never]
+
+--Grenade Line-up Reticle--
+Keep Regular Crosshair [Yes]
+Flashbangs [On][2.00]
+HE grenades [On][2.00]
+Molotov cocktails/Incendiary grenades [On][2.00]
+Smoke grenades [On][2.00]
+Decoy grenades [On][2.00]
+
+--Telemetry--
+Show frame time and FPS [Never]
+Frame time warning threshold [100.0ms = 10FPS]
+Show ping [Always]
+Show network problems(ticks missed due to loss/jitter) [Always]
+Network tick miss rate warning threshold [1.7]
+Show network jitter/misdeliery graph [Never]
+Use the detailed network quality display [Never]
+
+
+
+
+----//Keyboard/Mouse\\----
+
+--Keyboard & Mouse Settings--
+Reverse Mouse [Off]
+Duck Mode [Hold]
+Walk Mode [Hold]
+Zoom Button Hold [Repeat Disabled]
+Mouse Sensitivity []
+Zoom Sensitivity Multiplier [1.00]
+
+--Movement Keys--
+Toggle Inventory Display [I]
+Move Forward [W]
+Move Backward [S]
+Move Left(strafe) [A]
+Move Right(strafe) [D]
+Walk [Shift]
+Duck [Ctrl]
+Jump [Space]
+
+--Weapon Keys--
+Use [E]
+Fire [Mouse1]
+Secondary Fire [Mouse2]
+Reload [R]
+Radial Weapon Menu []
+Select Previous Weapon []
+Select Next Weapon []
+Last Weapon Used []
+Drop Weapon [G]
+Inspect Weapon [X]
+Switch Viewmodel Left/Right Hand []
+Buy Menu [B]
+Autobuy [F3]
+Rebuy [F4]
+Primary Weapon [1]
+Secondary Weapon [2]
+Melee Weapons [C]
+Cycle Grenades [Q]
+Explosives & Traps []
+HE Grenade []
+Flashbang []
+Smoke Grenade []
+Decoy Grenade []
+Molotov Cocktail/Incendiary Grenade []
+Zeus []
+Healthshot []
+Utility Items []
+Graffiti Menu []
+
+--UI Keys--
+Scoreboard [Tab]
+Show Team Equipment []
+Toggle Radar Zoom []
+Call Vote []
+Choose Team [M]
+Toggle Console [`]
+
+--Communication Options--
+Radio Message []
+Command Radio Message []
+Standard Radio Message []
+Report Radio Message []
+Team Message [U]
+Chat Message [Y]
+Use Microphone [H]
+Temporarily Disable Incoming Chat []
+
+--Chat Wheel Keys--
+Chat Wheel 1 []
+Chat Wheel 2 [Z]
+Chat Wheel 3 []

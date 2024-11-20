@@ -1,0 +1,71 @@
+----//Settings\\----
+
+ //Performance\\
+  
+  --Playback--
+   Other application focused [Pause All]
+   Other application maximized [Keep Running]
+   Other application fullscreen [Pause All]
+   Other application playing audio [Mute]
+   Display asleep [Stop]
+   Application rules []
+
+  --Quality--
+   FPS [120]
+   Anti-aliasing [MSAA x8]
+   Post-processing [Disabled]
+   Texture resolution [High Quality]
+   Shadows [Medium]
+   Volumetric lighting [Medium]
+   Reflections [Yes]
+  
+ //General\\
+  
+  --Automatic Startup--
+   Start with Windows [Yes]
+   Protect against crashes [No]
+   Safe start after hibernation [No]
+
+  --Basic Setup--
+   Language [English]
+   Hotkeys []
+
+  --Windows--
+   Adjust Windows color [Disabled]
+   Desktop icon opacity [100%]
+   Monitor identification [Layout]
+   Prompt to disable Windows Slideshow [Yes]
+   Remove Windows Slideshow fade [No]
+   Unpause during Aero Peek [Yes]
+   Override wallpaper image [Yes]
+   Override lockscreen image [Yes]
+   Virtual desktop support [No]
+   Media integration support [Yes]
+
+  --Appearance--
+   Theme [Dark]
+   Use seasonal theming [No]
+   UI hardware acceleration [Yes]
+   UI quality [High - Enable Effects]
+
+  --Audio--
+   Audio output [Yes]
+   Audio recording device [Default]
+   Recording volume [50]
+   Recording threshold [0]
+   Reload when changing output device [Yes]
+
+  --Video--
+   Video framework [Prefer Media Foundation]
+   Media Foundation stutter fix [No]
+   Video hardware acceleration [Yes]
+   Video loading [From Disk]
+   WebM loop [Default]
+   WebM framework [Prefer Chromium]
+
+  --Advanced--
+   Process priority [Normal]
+   Pause when VRAM is exhausted [No]
+   Hide other applications in mini mode [No]
+   Use high-precision timers [Yes]
+   Restart after crashing [No]

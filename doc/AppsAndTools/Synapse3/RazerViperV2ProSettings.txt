@@ -1,0 +1,22 @@
+----//Viper V2 Pro\\----
+
+ //Performance\\
+
+  --Sensitivity--
+   Sensitivity Stages [Off]
+   DPI [3200]
+   Polling Rate [8000]
+
+ //Power\\
+
+  --Wireless Power Saving--
+   Enter sleep mode if idle for (minutes) [5]
+
+  --Low Power Mode--
+   When wireless, enter Low Power Mode if the battery level is below (%) [5]
+
+ //Calibration\\
+  
+  --Smart Tracking--
+   Enable Asymmetric Cut-off [No]
+   TRACKING DISTANCE [High]

@@ -1,0 +1,23 @@
+||Adobe Master Collection 2023 RUS-ENG v10||
+
+done in windows defender firewall
+
+OUTBOUND RULES:
+
+Pop-up Block
+3.219.243.226
+3.233.129.217
+18.213.11.84
+34.237.241.83
+50.16.47.176
+52.6.155.20
+52.22.41.97
+54.224.241.105
+
+Photoshop Block
+photoshop.exe directory
+
+Illustrator Block
+Illustrator.exe directory
+
+

@@ -1,0 +1,63 @@
+BetterGifPicker
+BiggerStreamPreview
+ColorSighted
+FixImagesQuality
+FriendsSince
+NoProfileThemes
+ReadAllNotificationsButton
+VoiceDownload
+WhoReacted
+YoutubeAdblock
+
+CallTimer - Format: 30d 23h 00m 42s
+
+ClientTheme - Theme Color: #161618
+
+CrashHandler - Attempt to prevent crashes: on
+             - Attempt to navigate to home: off
+
+FakeNitro - Enable Emoji Bypass: on
+	  - Emoji Size: 48
+	  - Transform Emojis: on
+	  - Enable Sticker Bypass: on
+	  - Sticker Size: 160
+	  - Transform Stickers: on
+	  - Transform Compound Sentence: off
+	  - Enable Stream Quality Bypass: on
+	  - Use Hyper Links: on
+	  - Hyper Link Text: {{NAME}}
+	  - Disable Embed Permission Check: off
+
+GameActivityToggle - Old Icon: off
+
+MessageLogger - Delete Style: Red Text
+              - Log Deletes: on
+              - Collapse Deleted: off
+              - Log Edits: on
+              - Inline Edits: on
+              - Ignore Bots: off
+              - Ignore Self: off
+
+NotificationVolume - Notification Volume: 25%
+
+SendTimestamps - Replace Message Contents: on
+
+ShowHiddenThings - Show Timeouts: on
+                 - Show Invites Paused: on
+                 - Show Mod View: on
+                 - Disable Discovery Filters: on
+                 - Disable Disallowed Discovery Filters: on
+
+SpotifyCrack - No Spotify Auto Pause: on
+	     - Keep Spotify Activity On Idle: off
+
+Summaries - Summary Expiry Threshold Days: 3
+
+Translate - Show Chat Bar Button: on
+	  - Translation service: Google Translate
+	  - Auto Translate: off
+	  - Show Auto Translate Tooltip: on
+
+VoiceMessages - Noise Suppression: off
+	      - Echo Cancellation: off
+

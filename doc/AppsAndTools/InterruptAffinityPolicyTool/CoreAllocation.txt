@@ -1,0 +1,8 @@
+RTX 4080 - Core 6
+Streamdeck(Port_#0004.Hub_#0003)(USBPDO-10) - Core 2
+FiioK5Pro(Port_#0002.Hub_#0006)(USBPDO-17) - Core 14
+Razer Viper V2 Pro(Port_#0006.Hub_#0001)(USBPDO-4) - Core 4
+(Razer Control Device) - Core 4
+(Razer Hyperpolling Wireless Dongle) - Core 4
+(Razer Hyperpolling Wireless Dongle) - Core 4
+(Razer Hyperpolling Wireless Dongle) - Core 4
