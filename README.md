@@ -87,11 +87,9 @@ Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 
 [WinViewSet](doc/AppsAndTools/WinViewSet/)
 
-* # Keyboards
+# Keyboards
 
-[Dabrownie's Custom DZ60](https://github.com/DaRealDabrownie/Dabrownies-DZ60)
-
-# Dabrownies DZ60 QMK Keymap
+### Dabrownies DZ60 QMK Keymap
 
 [keymap.c Here.](keymap.c)
 
