@@ -91,7 +91,7 @@ Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 
 ### Dabrownies DZ60 QMK Keymap
 
-[keymap.c Here.](keymap.c)
+[keymap.c Here.](keyboards/dabrownies_dz60/keymap.c)
 
 **Base Layer**
 ![base layer](keyboards/dabrownies_dz60/doc/%20%20%20%20%20Base_Layer.png)
