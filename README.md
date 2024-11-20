@@ -33,4 +33,6 @@ Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 
 * ## Keyboards
 
+[Dabrownie's Custom DZ60](https://github.com/DaRealDabrownie/Dabrownies-DZ60)
+
 
