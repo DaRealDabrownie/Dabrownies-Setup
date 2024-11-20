@@ -2,7 +2,7 @@
 
 ![DabrowniesSetup1](doc/Media/Pictures/DabrowniesSetup1.jpg)
 
-Monitors: [Rog Strix XG27AQ],(https://rog.asus.com/ca-en/monitors/27-to-31-5-inches/rog-strix-xg27aq-model/) [LG 27GL650F-B, LG 27GL650F-B](https://www.lg.com/us/monitors/lg-27gl650f-b-gaming-monitor)
+Monitors: [Rog Strix XG27AQ,](https://rog.asus.com/ca-en/monitors/27-to-31-5-inches/rog-strix-xg27aq-model/) [LG 27GL650F-B, LG 27GL650F-B](https://www.lg.com/us/monitors/lg-27gl650f-b-gaming-monitor)
 
 Amp/Dac: [FiiO K5PRO](https://www.fiio.com/k5pro)
 
