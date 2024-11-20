@@ -1,5 +1,7 @@
 # Dabrownies Setup
 
+![DabrowniesSetup1](doc/Media/Pictures/DabrowniesSetup1.jpg)
+
 ## PC
 
 ![DabrowniesPC1](doc/Media/Pictures/DabrowniesPC1.png)
