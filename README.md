@@ -10,7 +10,7 @@ IEM's: [Kiwi Ears Orchestra Lite](https://www.linsoul.com/products/kiwi-ears-orc
 
 Headphones: [Beyerdynamic DT 990 PRO 250 Ohm](https://north-america.beyerdynamic.com/p/dt-990-pro)
 
-Keyboard: [Custom]([https://github.com/DaRealDabrownie/Dabrownies-DZ60](https://github.com/DaRealDabrownie/Dabrownies-Setup/blob/main/README.md#keyboards))
+Keyboard: [Custom](https://github.com/DaRealDabrownie/Dabrownies-Setup/blob/main/README.md#keyboards)
 
 Mouse: [Razer Viper V2 Pro With 8kHz Dongle](https://www.razer.com/ca-en/gaming-mice/razer-viper-v2-pro)
 
