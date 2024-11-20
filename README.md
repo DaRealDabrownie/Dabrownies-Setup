@@ -2,8 +2,6 @@
 
 ![DabrowniesSetup1](doc/Media/Pictures/DabrowniesSetup1.jpg)
 
-PC
-
 Monitors: Rog Strix XG27AQ, LG 27GL650F-B, LG 27GL650F-B
 
 Amp/Dac: FiiO K5PRO
