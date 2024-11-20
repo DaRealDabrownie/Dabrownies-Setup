@@ -2,19 +2,19 @@
 
 ![DabrowniesSetup1](doc/Media/Pictures/DabrowniesSetup1.jpg)
 
-Monitors: Rog Strix XG27AQ, LG 27GL650F-B, LG 27GL650F-B
+Monitors: [Rog Strix XG27AQ](https://rog.asus.com/ca-en/monitors/27-to-31-5-inches/rog-strix-xg27aq-model/,) [LG 27GL650F-B, LG 27GL650F-B](https://www.lg.com/us/monitors/lg-27gl650f-b-gaming-monitor)
 
-Amp/Dac: FiiO K5PRO
+Amp/Dac: [FiiO K5PRO](https://www.fiio.com/k5pro)
 
-IEM's: Kiwi Ears Orchestra Lite
+IEM's: [Kiwi Ears Orchestra Lite](https://www.linsoul.com/products/kiwi-ears-orchestra-lite)
 
-Headphones: Beyerdynamic DT 990 PRO 250 Ohm
+Headphones: [Beyerdynamic DT 990 PRO 250 Ohm](https://north-america.beyerdynamic.com/p/dt-990-pro)
 
 Keyboard: Custom
 
-Mouse: Razer Viper V2 Pro With 8kHz Dongle
+Mouse: [Razer Viper V2 Pro With 8kHz Dongle](https://www.razer.com/ca-en/gaming-mice/razer-viper-v2-pro)
 
-Mic: Elgato Wave:3
+Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 
 
 ## PC
