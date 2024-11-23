@@ -1,0 +1,111 @@
+----//Game Options\\----
+Toggle Auto Lock-On [On]
+Auto-Target [Off]
+Manual Attack Aiming [Off]
+Controller Vibration [0]
+
+
+
+
+----//Camera Options\\----
+Camera X-Axis [Normal]
+Camera Y-Axis [Normal]
+Reset Camera Y-Axis [Off]
+Camera Speed [9]
+Camera Auto Rotation [On]
+Camera Auto Wall Recovery [Off]
+Cinematic Effects [On]
+
+
+
+
+----//Camera Options\\----
+Display Blood [On]
+Subtitles [On]
+HUD [On]
+Show Tutorials [On]
+HDR [Off]
+Adjust Brightness [5]
+Device For On-Screen Prompts [Game Pad]
+Mark New Items [On]
+Show Recent Items Tab [On]
+
+
+
+
+----//Sound\\----
+Master Volume [2]
+Music [4]
+Sound Effects[7]
+Voice [7]
+
+
+
+
+----//Network\\----
+Cross-Region Play [No Matchmaking]
+Send Summon Sign [Disable]
+Launch Setting [Play Online]
+
+
+
+
+----//Controller Settings\\----
+
+//Controls\\
+
+--Move--
+Move Forwards [Left Stick]
+Move Backwards [Left Stick]
+Move Left [Left Stick]
+Move Right [Left Stick]
+Backstep, Dodge Roll, Dash [B Button]
+Jump [A Button]
+Crouch/Stand Up [Left Stick Button]
+
+--Camera Controls--
+Move Camera/Change Target(Up) [Right Stick]
+Move Camera/Change Target(Down) [Right Stick]
+Move Camera/Change Target(Left) [Right Stick]
+Move Camera/Change Target(Right) [Right Stick]
+Reset Camera, Lock-On/Remove Target [Right Stick Button]
+
+--Switch Armament--
+Switch Sorcery/Incantation [DPAD Up]
+Switch Item [DPAD Down]
+Switch Right-Hand Armament [DPAD Right]
+Switch Left-Hand Armament [DPAD Left]
+
+--Attack--
+Attack(RH & Two-Handed Armament) [RB]
+Strong Attack(RH & 2H Armament) [RT]
+Guard(LH Armament) [LB]
+Skill [LT]
+Use Item [X Button]
+Event Action (Examine, Open , ect.) [Y Button]
+
+
+
+
+----//Graphics\\----
+Screen Mode [Borderless Windowed]
+Resolution [2560x1440]
+Auto-Detect Best Rendering Settings [Off]
+Ray Tracing Quality [Off]
+Quality Settings [Custom]
+
+--Advanced Settings--
+Texture Quality [Maximum]
+Antialiasing Quality [High]
+SSAO [Medium]
+Depth of Field [Off]
+Motion Blur [Off]
+Shadow Quality [High]
+Lighting Quality [High]
+Effects Quality [Medium]
+Volumetric Quality [High]
+Reflection Quality [High]
+Water Surface Quality [High]
+Shader Quality [High]
+Global Illumination Quality [Medium]
+Grass Quality [High]
