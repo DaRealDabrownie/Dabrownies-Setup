@@ -47,6 +47,8 @@ Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 
 [Escape From Tarkov: Arena Control.ini](doc/Games/EFTArena/Control.ini)
 
+[Elden Ring](doc/Games/EldenRing/EldenRingSettings.txt)
+
 [Valorant](doc/Games/Valorant/ValorantSettings.txt)
 
 ## Apps & Tools Settings
