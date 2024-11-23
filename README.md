@@ -24,15 +24,21 @@ Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 ### [Windows Install And Setup <ins>Here.</ins>](https://www.youtube.com/watch?v=6UQZ5oQg8XA) [<ins>Or Here</ins>.](doc/Media/Videos/ThePerfectWindows11Install.mp4)
 ### [YT-DLP Install <ins>Here.</ins>](https://www.youtube.com/watch?v=G6sOzBmxrLM) [<ins>Or Here.</ins>](doc/Media/Videos/YT-DLP_Install.mp4)
 
-* GPU: [MSI RTX 4080 GAMING X TRIO](https://ca.pcpartpicker.com/product/Mm6p99/intel-core-i7-13700k-34-ghz-16-core-processor-bx8071513700k)
+* GPU: [MSI RTX 4080 GAMING X TRIO](https://www.msi.com/Graphics-Card/GeForce-RTX-4080-16GB-GAMING-X-TRIO)
 
-* CPU: [Intel Core I7-13700K](https://ca.pcpartpicker.com/product/Mm6p99/intel-core-i7-13700k-34-ghz-16-core-processor-bx8071513700k)
+* CPU: [Intel Core I7-13700K](https://www.intel.com/content/www/us/en/products/sku/230500/intel-core-i713700k-processor-30m-cache-up-to-5-40-ghz/specifications.html)
 
-* Motherboard: [ROG Strix Z690-E](https://ca.pcpartpicker.com/product/MNWzK8/asus-rog-strix-z690-e-gaming-wifi-atx-lga1700-motherboard-rog-strix-z690-e-gaming-wifi)
+* CPU Cooler: [NZXT Kraken Z73](https://nzxt.com/en-CA/product/kraken-z73)
 
-* Memory: [Corsair Dominator 32GB](https://ca.pcpartpicker.com/product/p6wypg/corsair-dominator-platinum-rgb-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-cmt32gx5m2d6000c36)
+* Motherboard: [ROG Strix Z690-E](https://rog.asus.com/ca-en/motherboards/rog-strix/rog-strix-z690-e-gaming-wifi-model/)
 
-* PSU: [MSI MPG A1000G](https://ca.pcpartpicker.com/product/ZDt9TW/msi-a1000g-pcie5-1000-w-80-gold-certified-fully-modular-atx-power-supply-mpg-a1000g-pcie-5)
+* Memory: [Corsair Dominator 32GB](https://www.corsair.com/ca/en/p/memory/cmt32gx5m2b6400c32/dominator-platinum-rgb-32gb-2x16gb-ddr5-dram-6400mhz-c32-memory-kit-black-cmt32gx5m2b6400c32https://www.corsair.com/ca/en/p/memory/cmt32gx5m2b6400c32/dominator-platinum-rgb-32gb-2x16gb-ddr5-dram-6400mhz-c32-memory-kit-black-cmt32gx5m2b6400c32)
+
+* PSU: [MSI MPG A1000G PCIE5](https://www.msi.com/Power-Supply/MPG-A1000G-PCIE5)
+
+* Fans: [Lian Li Uni Fan SL-Inf](https://lian-li.com/product/uni-fan-sl-infinity/?cn-reloaded=1)
+
+* Case: [Lian Li O11 Dynamic EVO](https://lian-li.com/product/o11-dynamic-evo/?cn-reloaded=1%5C%27%5B0%5D)
 
 ## Game Settings
 
