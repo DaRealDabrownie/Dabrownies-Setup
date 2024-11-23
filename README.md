@@ -17,7 +17,7 @@ Mouse: [Razer Viper V2 Pro With 8kHz Dongle](https://www.razer.com/ca-en/gaming-
 Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 
 
-## PC
+# PC
 
 ![DabrowniesPC1](doc/Media/Pictures/DabrowniesPC1.png)
 
@@ -58,7 +58,7 @@ Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 
 [Valorant](doc/Games/Valorant/ValorantSettings.txt)
 
-## Apps & Tools Settings
+# Apps & Tools Settings
 
 [Adobe](doc/AppsAndTools/Adobe/Adobe.txt)
 
