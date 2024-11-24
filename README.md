@@ -24,6 +24,8 @@ Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 ### [Windows Install And Setup <ins>Here.</ins>](https://www.youtube.com/watch?v=6UQZ5oQg8XA) [<ins>Or Here</ins>.](doc/Media/Videos/ThePerfectWindows11Install.mp4)
 ### [YT-DLP Install <ins>Here.</ins>](https://www.youtube.com/watch?v=G6sOzBmxrLM) [<ins>Or Here.</ins>](doc/Media/Videos/YT-DLP_Install.mp4)
 
+## Specs
+
 * GPU: [MSI RTX 4080 GAMING X TRIO](https://www.msi.com/Graphics-Card/GeForce-RTX-4080-16GB-GAMING-X-TRIO)
 
 * CPU: [Intel Core I7-13700K](https://www.intel.com/content/www/us/en/products/sku/230500/intel-core-i713700k-processor-30m-cache-up-to-5-40-ghz/specifications.html)
