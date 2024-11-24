@@ -60,7 +60,7 @@ Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 
 [Valorant](doc/Games/Valorant/ValorantSettings.txt)
 
-# Apps & Tools Settings
+## Apps & Tools Settings
 
 [Adobe](doc/AppsAndTools/Adobe/Adobe.txt)
 
@@ -97,6 +97,8 @@ Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 [Wave Link](doc/AppsAndTools/WaveLink/)
 
 [WinViewSet](doc/AppsAndTools/WinViewSet/)
+
+## Ai Tools
 
 # Keyboards
 
