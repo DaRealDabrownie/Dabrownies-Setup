@@ -112,7 +112,7 @@ Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 
 # Keyboards
 
-## Dabrownies DZ60 QMK Keymap
+### Dabrownies DZ60 QMK Keymap
 
 [keymap.c Here.](keyboards/dabrownies_dz60/keymap.c)
 
