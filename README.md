@@ -21,8 +21,8 @@ Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 
 ![DabrowniesPC1](doc/Media/Pictures/DabrowniesPC1.png)
 
-## [Windows Install And Setup <ins>Here.</ins>](https://www.youtube.com/watch?v=6UQZ5oQg8XA) [<ins>Or Here</ins>.](doc/Media/Videos/ThePerfectWindows11Install.mp4)
-## [YT-DLP Install <ins>Here.</ins>](https://www.youtube.com/watch?v=G6sOzBmxrLM) [<ins>Or Here.</ins>](doc/Media/Videos/YT-DLP_Install.mp4)
+### [Windows Install And Setup <ins>Here.</ins>](https://www.youtube.com/watch?v=6UQZ5oQg8XA) [<ins>Or Here</ins>.](doc/Media/Videos/ThePerfectWindows11Install.mp4)
+### [YT-DLP Install <ins>Here.</ins>](https://www.youtube.com/watch?v=G6sOzBmxrLM) [<ins>Or Here.</ins>](doc/Media/Videos/YT-DLP_Install.mp4)
 
 ## Specs
 
@@ -99,6 +99,16 @@ Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 [WinViewSet](doc/AppsAndTools/WinViewSet/)
 
 ## Ai Tools
+
+[Retrieval Based Voice Conversion](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/)
+
+[Tortoise TTS With RVC](https://github.com/JarodMica/ai-voice-cloning/)
+
+[Live Ai Voice Changer](https://github.com/w-okada/voice-changer/)
+
+[Replay Ai](https://www.tryreplay.io/)
+
+[Ultimate Vocal Remover](https://ultimatevocalremover.com/)
 
 # Keyboards
 
