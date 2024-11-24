@@ -17,14 +17,14 @@ Mouse: [Razer Viper V2 Pro With 8kHz Dongle](https://www.razer.com/ca-en/gaming-
 Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 
 
-# PC
+## PC
 
 ![DabrowniesPC1](doc/Media/Pictures/DabrowniesPC1.png)
 
 ### [Windows Install And Setup <ins>Here.</ins>](https://www.youtube.com/watch?v=6UQZ5oQg8XA) [<ins>Or Here</ins>.](doc/Media/Videos/ThePerfectWindows11Install.mp4)
 ### [YT-DLP Install <ins>Here.</ins>](https://www.youtube.com/watch?v=G6sOzBmxrLM) [<ins>Or Here.</ins>](doc/Media/Videos/YT-DLP_Install.mp4)
 
-## Specs
+### Specs
 
 * GPU: [MSI RTX 4080 GAMING X TRIO](https://www.msi.com/Graphics-Card/GeForce-RTX-4080-16GB-GAMING-X-TRIO)
 
@@ -42,7 +42,7 @@ Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 
 * Case: [Lian Li O11 Dynamic EVO](https://lian-li.com/product/o11-dynamic-evo/?cn-reloaded=1%5C%27%5B0%5D)
 
-## Game Settings
+### Game Settings
 
 [CS2](doc/Games/CS2/CS2Settings.txt)
 
@@ -60,7 +60,7 @@ Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 
 [Valorant](doc/Games/Valorant/ValorantSettings.txt)
 
-## Apps & Tools Settings
+### Apps & Tools Settings
 
 [Adobe](doc/AppsAndTools/Adobe/Adobe.txt)
 
@@ -98,9 +98,9 @@ Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 
 [WinViewSet](doc/AppsAndTools/WinViewSet/)
 
-## Ai Tools
+### Ai Tools
 
-# Keyboards
+## Keyboards
 
 ### Dabrownies DZ60 QMK Keymap
 
