@@ -44,6 +44,8 @@ Mic: [Elgato Wave:3](https://www.elgato.com/ca/en/p/wave-3-black)
 
 ## Game Settings
 
+[Call Of Duty: Black Ops III](doc/Games/CODBOIII/CODBOIIISettings.txt)
+
 [CS2](doc/Games/CS2/CS2Settings.txt)
 
 [Destiny 2](doc/Games/Destiny2/Destiny2Settings.txt)
