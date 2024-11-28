@@ -1,0 +1,169 @@
+----//Controls\\----
+
+//Look\\
+
+--Keybinds--
+Look Up [Unbound]
+Look Down [Unbound]
+Turn Left [Unbound]
+Turn Right [Unbound]
+Mouse Look [Unbound]
+Center View [Unbound]
+
+--Mouse--
+Frame Smoothing [Off]
+Invert Mouse [Off]
+Free Look [On]
+Mouse Sensitivity [1.11]
+Mouse Acceleration [0.00]
+Mouse Filtering [0.00]
+
+//Move\\
+
+--Keybinds--
+Forward [W]
+Backpedal [S]
+Move Left [A]
+Move Right [D]
+Stand/Jump [Space]
+Go to Crouch [Unbound]
+Go to Prone [Unbound]
+Toggle Crouch [Unbound]
+Toggle Prone [Unbound]
+Crouch [Unbound]
+Prone [Unbound]
+Slide [Unbound]
+Change Stance [CTRL]
+Strafe [Unbound]
+
+//Combat\\
+
+--Keybinds--
+Attack [Left Mouse]
+ADS [Right Mouse]
+Toggle ADS [Unbound]
+Melee Attack [F]
+Switch Weapon [Unbound]
+Previous Weapon [Mouse 4]
+Next Weapon [Mouse 5]
+Specialist Ability/Weapon [T]
+Reload Weapon [R]
+Sprint [Unbound]
+Sprint/Hold Breath [Shift]
+Steady Sniper Rifle [Unbound]
+Throw Primary [Middle Mouse]
+Throw Secondary [Q]
+
+//Interact\\
+
+--Keybinds--
+Use [E]
+Special Action 1 [1]
+Special Action 2 [2]
+Special Action 3 [3]
+Special Action 4 [4]
+Screenshot [F10]
+Scoreboard [Tab]
+Scoreboard Toggle [Unbound]
+Voice Chat [H]
+Chat [Unbound]
+Team Chat [Y]
+Party Chat [P]
+
+//Gamepad\\
+
+--Gamepad--
+Look Inversion [Off]
+Gamepad Vibration [Off]
+Target Assist [On]
+Stick Layout [Default]
+Button Layout [Default]
+Look Sensitivity Horizontal [3.56]
+Look Sensitivity Vertical [3.56]
+
+
+
+
+----//Graphics\\----
+
+//Video\\
+
+Display Mode [Windowed Fullscreen]
+Monitor [1]
+Screen Resolution [2560x1440]
+Refresh Rate []
+Render Resolution [100%]
+Display Gamma [Computer (sRGB)]
+Brightness [0.50]
+Field of View [120]
+Max Frames Per Second [240]
+Sync Every Frame [Off]
+Draw FPS [Off]
+
+//Advanced\\
+
+Texture Quality [Extra]
+Texture Filtering [High]
+Mesh Quality [Medium]
+Shadow Map Quality [Medium]
+Dynamic Shadows [Off]
+Subsurface Scattering [Off]
+Order Independent Transparency [Medium]
+Volumetric Lighting [Medium]
+Anti-Aliasing [FXAA]
+Ambient Occlusion [Disabled]
+Motion Blur [Disabled]
+
+//Game\\
+
+Player Name Indicator [Full Name]
+Splitscreen Orientation [Horizontal]
+Colorblind Mode [Off]
+
+
+
+
+----//Audio\\----
+
+Master Volume [0.45]
+Voice Volume [1.00]
+Music Volume [1.00]
+SFX Volume [1.00]
+Cinematics Volume [1.00]
+Audio Presets [Headphones]
+Multiplayer Dialog [Enabled]
+Multiplayer Music [Default]
+Subtitles [On]
+
+
+
+----//Chat\\----
+
+//Voice\\
+
+Voice Chat [On]
+Voice Chat Volume [1.00]
+Voice Chat Record Level [1.00]
+Push to Talk [On]
+Mute all except Party [On]
+
+//Text\\
+
+Text Chat [On]
+
+--Channel--
+All [On]
+Team [On]
+Party [On]
+
+--Prefix--
+Timestamp [On]
+Channel [Off]
+
+
+
+
+----//Content Filter\\----
+
+Graphic Content [Enabled]
+User Generated Content [Enabled]
