@@ -2,8 +2,10 @@ BetterGifPicker
 BiggerStreamPreview
 ColorSighted
 FixImagesQuality
+ForceOwnerCrown
 FriendsSince
 NoProfileThemes
+NoTypingAnimations
 ReadAllNotificationsButton
 VoiceDownload
 WhoReacted
@@ -28,7 +30,11 @@ FakeNitro - Enable Emoji Bypass: on
 	  - Hyper Link Text: {{NAME}}
 	  - Disable Embed Permission Check: off
 
+FixSpotifyEmbeds - Volume: 10%
+
 GameActivityToggle - Old Icon: off
+
+ImplicitRelationships - Sort By Affinity: Yes
 
 MessageLogger - Delete Style: Red Text
               - Log Deletes: on
@@ -48,6 +54,10 @@ ShowHiddenThings - Show Timeouts: on
                  - Disable Discovery Filters: on
                  - Disable Disallowed Discovery Filters: on
 
+Silent Typing - Show Icon: off
+	      - Context Menu: on
+	      - Is Enabled: on
+
 SpotifyCrack - No Spotify Auto Pause: on
 	     - Keep Spotify Activity On Idle: off
 
@@ -57,6 +67,10 @@ Translate - Show Chat Bar Button: on
 	  - Translation service: Google Translate
 	  - Auto Translate: off
 	  - Show Auto Translate Tooltip: on
+
+UserVoiceShow - Show In User Profile Modal: on
+	      - Show In Member List: on
+              - Show In Messages: on
 
 VoiceMessages - Noise Suppression: off
 	      - Echo Cancellation: off
