@@ -1,26 +1,15 @@
 {
-    "appVersion": "1.10.1.2293",
+    "appVersion": "1.11.1.2824",
     "filterConfigurations": [
-        {
-            "activeMixerIDs": [],
-            "filterConfigID": "D925FA51-D753-4DC7-8A81-DC1F86529508",
-            "filterSettings": "Q2NuSwAAAABGeEJrAAAAAXJlY20AAARMAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ2NuSwAAAABGeENrAAAAAXJlY20AAARMAAAAEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+3hP/PPg+EDuA4vc9I9cKAAAAAAAAAAA/gAAAAAAAAAAAAAAAAAAAAAAAAD+AAAAAAAAAO6PXCgAAAAAAAAAAAAAAAD+AAAAAAAAA",
-            "pluginCategory": "Effect",
-            "pluginDisplayName": "Compressor",
-            "pluginID": "7265636d",
-            "pluginOriginalName": "ReaComp (ReaPlugs Edition)",
-            "pluginURL": "",
-            "pluginVendor": "Cockos"
-        },
         {
             "activeMixerIDs": [
                 "com.elgato.mix.local",
                 "com.elgato.mix.stream"
             ],
-            "filterConfigID": "FC07D3A5-BF88-4EBA-9373-F4F7EA5D74E0",
+            "filterConfigID": "4DB5BC6C-E54C-4021-92FA-24F6268DE580",
             "filterSettings": "Q2NuSwAAAABGQkNoAAAAATRGd0wAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATAwAAIF0aHJlc2gAAAAAgD8MAACBY2VpbGluZwDfak0/DAAAgXJlbGVhc2UAUCD2PhQAAIFhZGFwdFJlbGVhc2UAAAAAAAAAAAAAAIA=",
             "pluginCategory": "Effect",
-            "pluginDisplayName": "Limiter",
+            "pluginDisplayName": "W1 Limiter (Voice Chat)",
             "pluginID": "3446774c",
             "pluginOriginalName": "W1 Limiter",
             "pluginURL": "",
