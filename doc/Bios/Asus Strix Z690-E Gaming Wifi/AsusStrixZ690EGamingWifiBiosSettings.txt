@@ -1,4 +1,5 @@
-BIOS Version []
+BIOS Version [4001 x64]
+Build Date [10/04/2024]
 CPU [Intel Core I7-13700K]
 
 
