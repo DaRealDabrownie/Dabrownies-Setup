@@ -26,7 +26,20 @@ Long Duration Package Power Limit [253]
 Short Duration Package Power Limit [253]
 IA VR Voltage Limit [1450]
 
+
+
+
+----//Monitor\\----
+
+//Fan Speed Monitor\\
+
+CPU Fan Speed [Ignore]
+
+
+
+
 ----//Search Bar\\----
 
 UnderVolt Protection [Disabled]
 Intel (VMX) Virtualization Technology [Disabled]
+Re-Size BAR Support [Enabled]
