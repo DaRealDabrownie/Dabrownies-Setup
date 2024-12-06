@@ -4,7 +4,7 @@
   
   --Playback--
    Other application focused [Pause All]
-   Other application maximized [Keep Running]
+   Other application maximized [Pause All]
    Other application fullscreen [Pause All]
    Other application playing audio [Mute]
    Display asleep [Stop]
@@ -31,7 +31,7 @@
    Hotkeys []
 
   --Windows--
-   Adjust Windows color [Disabled]
+   Adjust Windows color [Everything]
    Desktop icon opacity [100%]
    Monitor identification [Layout]
    Prompt to disable Windows Slideshow [Yes]
